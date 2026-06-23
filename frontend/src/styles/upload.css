@@ -1,0 +1,24 @@
+.upload-area{
+    border:2px dashed #569578;
+    border-radius:20px;
+    padding:60px;
+    text-align:center;
+    cursor:pointer;
+    background:#022b22;
+    transition:.3s;
+}
+
+.upload-area:hover{
+    border-color:#275646;
+    transform:translateY(-3px);
+}
+
+.upload-area h2{
+    margin:0;
+    font-size:1.8rem;
+}
+
+.upload-area p{
+    color:#94a3b8;
+    margin-top:10px;
+}

@@ -1,0 +1,15 @@
+.info-card{
+    background:#022b22;
+    border:1px solid #569578;
+    border-radius:20px;
+    padding:20px;
+    margin-top:25px;
+}
+
+.info-card h2{
+    margin-top:0;
+}
+
+.info-card p{
+    color:#cbd5e1;
+}

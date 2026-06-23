@@ -1,0 +1,23 @@
+.preview-table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:30px;
+    background:#022b22;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.preview-table th{
+    background:#275d46;
+    padding:12px;
+    text-align:left;
+}
+
+.preview-table td{
+    padding:12px;
+    border-top:1px solid #569578;
+}
+
+.preview-table tr:hover{
+    background:#275d46;
+}
