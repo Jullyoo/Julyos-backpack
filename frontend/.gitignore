@@ -10,6 +10,7 @@ dist-ssr
 
 venv/
 .env
+.env.production
 __pycache__/
 *.pyc
 *.pyo

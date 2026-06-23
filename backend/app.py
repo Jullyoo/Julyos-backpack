@@ -7,7 +7,16 @@ from routes.download import download_bp
 
 app = Flask(__name__)
 
-CORS(app)
+CORS(
+    app,
+    resources={
+        r"/*": {
+            "origins": [
+                "https://julyos-backpack.vercel.app"
+            ]
+        }
+    }
+)
 
 app.register_blueprint(process_bp)
 app.register_blueprint(preview_bp)

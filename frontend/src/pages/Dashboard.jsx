@@ -86,7 +86,7 @@ export default function Dashboard() {
       );
 
       window.open(
-        `http://localhost:5000/download/${response.data.filename}`,
+        `${import.meta.env.VITE_API_URL}/download/${response.data.filename}`,
         "_blank"
       );
 
