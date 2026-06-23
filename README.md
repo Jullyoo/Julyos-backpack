@@ -6,6 +6,16 @@ O **Julyo's Backpack** nasceu da necessidade de reunir em um único ambiente div
 
 ---
 
+## Acesse o projeto através dos Links:
+
+Vercel (FrontEnd): https://julyos-backpack.vercel.app/
+
+Render (BackEnd): https://julyos-backpack.onrender.com
+
+Meu portfólio: https://jullyoo.github.io/Julyo.dev/
+
+---
+
 ## 📖 Sobre o Projeto
 
 Durante projetos de análise de dados, grande parte do tempo é consumida por atividades de preparação de dados:
